@@ -1,0 +1,11 @@
+{
+    "fg_nb_classes": 1535,
+    "cb_nb_classes": 28,
+    "fg_model_path": "./data/models/experiment-052_run-003_epoch-13.pt", 
+    "cb_model_path": "./data/models/experiment-051_run-001_epoch-30.pt", 
+    "fg_score_threshold": 0.91,
+    "cb_score_threshold": 0.92,
+    "image_border_size": 50,
+    "binarization_threshold": 0.555,
+    "image_size": [1024, 1024]
+}
