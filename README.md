@@ -4,8 +4,6 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2504.19695-919191.svg)](https://doi.org/10.48550/arXiv:2504.19695)
 [![paper](https://img.shields.io/badge/Paper-10.1186%2Fs13321--025--01091--4-b31b1b.svg)](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-025-01091-4)
 
-This repository is the internal version of the public SubGrapher repository. 
-
 This is the repository for [SubGrapher: Visual Fingerprinting of Chemical Structures](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-025-01091-4). SubGrapher is a model to detect functional groups in molecules images and convert them into visual fingerprints.
 
 <img src="assets/architecture.png" alt="Description of the image" width="600" />
